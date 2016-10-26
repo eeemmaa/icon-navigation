@@ -22,7 +22,8 @@ html {
 }
 
 .nav a:hover {
-
+  background-color: #fff;
+  color: #15114c;
 }
 
 @media only screen and (min-width: 60em) {
